@@ -1,2 +1,9 @@
 # DataScienceIntensive
-ideas
+Capstone project ideas:
+
+1. Predict successfull restaraunts based on the yelp data (https://www.yelp.com/dataset_challenge/dataset). I also try to find the correlation between ratings by users and experts
+like Michelin guide. 
+
+2. Estimate student performance using the UCI machine learning repository (http://archive.ics.uci.edu/ml/datasets/Student+Performance).
+
+3. Predict the FIFA world cup champions based on the FIFA a-match scores (http://www.fifa.com/live-scores/index.html). 
